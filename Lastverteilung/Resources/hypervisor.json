@@ -1,0 +1,7 @@
+{
+    "hypervisors": [
+        { "id": "hypervisor1", "maxram": 4096 },
+        { "id": "hypervisor2", "maxram": 2048 },
+        { "id": "hypervisor3", "maxram": 512 }
+    ]
+}
